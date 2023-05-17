@@ -1278,3 +1278,20 @@
  6.03836892e+00 1.48478602e+00 5.77166283e+00 5.33639373e+01
  4.86181806e+00 1.85843742e+01 5.62297576e-01 8.04253931e+01
  5.92097157e+01 8.48196714e+00 5.75257358e+00 2.31922273e-01]
+2023-04-25 19:56:58,641 - pyswarms.single.global_best - INFO - Optimize for 32 iters with {'c1': 1.5, 'c2': 1.5, 'w': 0.5}
+2023-04-25 20:01:59,055 - pyswarms.single.global_best - INFO - Optimize for 32 iters with {'c1': 1.5, 'c2': 1.5, 'w': 0.5}
+2023-04-25 20:02:13,445 - pyswarms.single.global_best - INFO - Optimize for 32 iters with {'c1': 1.5, 'c2': 1.5, 'w': 0.5}
+2023-04-25 20:03:32,072 - pyswarms.single.global_best - INFO - Optimize for 32 iters with {'c1': 1.5, 'c2': 1.5, 'w': 0.5}
+2023-04-25 20:04:31,953 - pyswarms.single.global_best - INFO - Optimize for 32 iters with {'c1': 1.5, 'c2': 1.5, 'w': 0.5}
+2023-04-25 20:04:39,255 - pyswarms.single.global_best - INFO - Optimize for 32 iters with {'c1': 1.5, 'c2': 1.5, 'w': 0.5}
+2023-04-25 20:05:18,112 - pyswarms.single.global_best - INFO - Optimize for 32 iters with {'c1': 1.5, 'c2': 1.5, 'w': 0.5}
+2023-04-25 20:06:15,566 - pyswarms.single.global_best - INFO - Optimize for 32 iters with {'c1': 1.5, 'c2': 1.5, 'w': 0.5}
+2023-04-25 20:06:38,189 - pyswarms.single.global_best - INFO - Optimize for 32 iters with {'c1': 1.5, 'c2': 1.5, 'w': 0.5}
+2023-04-25 20:06:57,107 - pyswarms.single.global_best - INFO - Optimize for 32 iters with {'c1': 1.5, 'c2': 1.5, 'w': 0.5}
+2023-04-25 20:07:10,282 - pyswarms.single.global_best - INFO - Optimize for 32 iters with {'c1': 1.5, 'c2': 1.5, 'w': 0.5}
+2023-04-25 20:08:34,787 - pyswarms.single.global_best - INFO - Optimize for 32 iters with {'c1': 1.5, 'c2': 1.5, 'w': 0.5}
+2023-04-25 20:09:17,023 - pyswarms.single.global_best - INFO - Optimize for 32 iters with {'c1': 1.5, 'c2': 1.5, 'w': 0.5}
+2023-04-25 20:09:37,501 - pyswarms.single.global_best - INFO - Optimization finished | best cost: 0.21201083197197815, best pos: [9.32013347e+01 2.05415030e-01 4.11941854e-02 4.85924110e+03
+ 6.94843766e+00 4.01679778e+00 5.53052237e+00 3.75980368e+01
+ 1.74272278e+00 4.24577363e+00 3.72378113e-01 3.19782359e+00
+ 3.75411979e+01 2.23020865e+00 5.37390730e+00 4.55271927e-01]
