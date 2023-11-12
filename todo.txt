@@ -1,0 +1,21 @@
+Vizualizando resultados:
+Ridge plot com quantis dentro
+
+https://jtr13.github.io/cc19/ridgeline-plots.html
+--------------------------------------------------
+
+Trocar representação de soluções, var_type int float str do pymoo
+
+-----------------------------------------------------------------
+
+Plot Current vs best PSO
+
+------------------------
+
+Rever quais hiperparametros vou otimizar
+
+----------------------------------------
+
+Repensar pre processamento
+
+
