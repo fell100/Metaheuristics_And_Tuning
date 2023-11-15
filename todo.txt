@@ -1,7 +1,9 @@
 Vizualizando resultados:
 Ridge plot com quantis dentro
-
+OU dist plot 3d
 https://jtr13.github.io/cc19/ridgeline-plots.html
+
+https://www.data-to-viz.com/
 --------------------------------------------------
 
 Trocar representação de soluções, var_type int float str do pymoo
@@ -9,13 +11,16 @@ Trocar representação de soluções, var_type int float str do pymoo
 -----------------------------------------------------------------
 
 Plot Current vs best PSO
-
+current vs mean vs best
 ------------------------
 
 Rever quais hiperparametros vou otimizar
-
+https://towardsdatascience.com/10-confusing-xgboost-hyperparameters-and-how-to-tune-them-like-a-pro-in-2023-e305057f546
 ----------------------------------------
 
 Repensar pre processamento
 
+Conseguir recursos computacionais com o eduardo
+https://www.purdue.edu/science/scienceit/ssh-keys-windows.html
 
+ssh i4soft@200.137.197.200

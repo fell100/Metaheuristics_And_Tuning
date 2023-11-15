@@ -5348,3 +5348,16 @@ ValueError: shape mismatch: objects cannot be broadcast to a single shape.  Mism
 2023-07-23 08:19:49,151 - pyswarms.single.global_best - INFO - Optimize for 32 iters with {'c1': 1.5, 'c2': 1.5, 'w': 0.5}
 2023-07-23 08:20:39,337 - pyswarms.single.global_best - INFO - Optimize for 32 iters with {'c1': 1.5, 'c2': 1.5, 'w': 0.5}
 2023-07-23 08:21:07,743 - pyswarms.single.global_best - INFO - Optimize for 32 iters with {'c1': 1.5, 'c2': 1.5, 'w': 0.5}
+2023-11-15 18:23:57,017 - pyswarms.single.global_best - INFO - Optimize for 32 iters with {'c1': 1.5, 'c2': 1.5, 'w': 0.5}
+2023-11-15 18:24:08,565 - pyswarms.single.global_best - INFO - Optimization finished | best cost: -0.8815717720881725, best pos: [6.67573946e+02 1.08316896e-02 8.76183021e-01 6.51037314e-01
+ 3.50937556e-01 3.90404339e+00 4.78335723e+00 6.70968788e-02
+ 7.01990248e-01 4.10000421e+00 6.16844922e-01]
+2023-11-15 18:24:08,580 - pyswarms.single.global_best - INFO - Optimize for 32 iters with {'c1': 1.5, 'c2': 1.5, 'w': 0.5}
+2023-11-15 18:24:11,640 - pyswarms.single.global_best - INFO - Optimization finished | best cost: -0.8812560179508699, best pos: [1.41318234e+02 4.61944132e-01 6.60295328e-01 6.14928388e-01
+ 3.22059439e-01 7.00335948e+00 8.74162062e+00 3.93029355e-02
+ 5.96561657e-01 3.22078320e+00 1.22899672e-01]
+2023-11-15 18:24:11,644 - pyswarms.single.global_best - INFO - Optimize for 32 iters with {'c1': 1.5, 'c2': 1.5, 'w': 0.5}
+2023-11-15 18:24:16,342 - pyswarms.single.global_best - INFO - Optimization finished | best cost: -0.8790247672872578, best pos: [2.23754830e+02 4.23824050e-01 6.71563533e-01 7.07554393e-01
+ 3.90166438e-01 3.98336618e+00 2.63189941e+00 4.57149989e-02
+ 7.97873594e-01 4.29902103e+00 7.18288208e-01]
+2023-11-15 18:24:16,349 - pyswarms.single.global_best - INFO - Optimize for 32 iters with {'c1': 1.5, 'c2': 1.5, 'w': 0.5}
