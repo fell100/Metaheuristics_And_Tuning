@@ -23,4 +23,11 @@ Repensar pre processamento
 Conseguir recursos computacionais com o eduardo
 https://www.purdue.edu/science/scienceit/ssh-keys-windows.html
 
+Login
 ssh i4soft@200.137.197.200
+
+Meu pc -> Servidor
+scp -r Metaheuristics_And_Tuning/ i4soft@200.137.197.200:/home/i4soft/lado_i/felipe_miranda/Metaheuristics_And_Tuning/
+
+Servidor -> Meu PC
+scp -r i4soft@200.137.197.200:/home/i4soft/lado_i/felipe_miranda/Metaheuristics_And_Tuning/  /c/Users/Felps/Desktop/teste_from_server
