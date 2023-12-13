@@ -1,0 +1,73 @@
+hyperparameter optimization via sequentia uniform designs
+=========================================================
+compara com grid search, e random search
+usa muitos datasets 
+propõe seu próprio "framework" 
+muda o espaço de busca adaptativamente
+_________________________________________________________
+
+interactive hyperparmeter optimization with paintable timelines
+===============================================================
+
+dashboard interativo para otimizar hiperparametros
+interações "alteram" o espaço de busca local
+usa optuna como engine por trás
+_______________________________________________________________
+
+Hyperparameter_Optimization_for_Multi-Layer_Data_Input_Using_Genetic_Algorithm
+===============================================================================
+(GA MODIFICADO)
+tuning de cnn usando algoritmo genético
+diminuição da população de acordo com gerações para facilitar 
+dataset de vibrações e falha de motores
+_______________________________________________________________________________
+
+Hyperparameter_Optimization_Comparing_Genetic_Algorithm_against_Grid_Search_and_Bayesian_Optimization
+=====================================================================================================
+ 
+Compara grid search algoritmo genetico e bayesian optimization
+
+BEM PARECIDO COM O MEU
+
+compara entre diversos modelos
+
+_____________________________________________________________________________________________________
+
+Hyperparameters_Tuning_of_Prior_Knowledge-Driven_Multilayer_Perceptron_Model_Using_Particle_Swarm_Optimization_for_Inverse_Modeling
+===================================================================================================================================
+
+Usa PSO para otimizar MLP especifico de uma (antena???)
+
+___________________________________________________________
+
+Hyperparameter_Optimization_of_LSTM_Network_Models_through_Genetic_Algorithm
+============================================================================
+
+GA para tunar LSTM em um problema de NLP
+
+
+
+=====================
+
+explicar por que o pso trava e o ga continua
+https://www.kaggle.com/datasets/muratkokludataset/date-fruit-datasets/code
+https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction?resource=download
+https://www.kaggle.com/datasets/yasserh/wine-quality-dataset?select=WineQT.csv
+catboost talvez xgboost
+
+novo dataset
+
+30 execuções
+
+TODO: 
+criar os 3 notebooks catboost
+rodar os 3 notebooks catboost
+
+
+
+
+
+
+
+
+
