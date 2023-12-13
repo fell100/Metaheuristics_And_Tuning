@@ -1,0 +1,21 @@
+2023-12-12 23:09:23,519 - pyswarms.single.global_best - INFO - Optimize for 32 iters with {'c1': 1.5, 'c2': 1.5, 'w': 0.5}
+2023-12-12 23:11:55,440 - pyswarms.single.global_best - INFO - Optimize for 32 iters with {'c1': 1.5, 'c2': 1.5, 'w': 0.5}
+2023-12-12 23:12:36,184 - pyswarms.single.global_best - INFO - Optimization finished | best cost: -1.0, best pos: [6.07918598e+02 4.86899400e-01 6.85238141e-01 9.41389145e-01
+ 4.55727040e-01 8.57522320e+00 1.49282338e+00 2.88747977e-02
+ 7.31057496e-01 6.39578698e+00 1.98508190e-01]
+2023-12-12 23:13:06,730 - pyswarms.single.global_best - INFO - Optimize for 32 iters with {'c1': 1.5, 'c2': 1.5, 'w': 0.5}
+2023-12-12 23:13:32,702 - pyswarms.single.global_best - INFO - Optimization finished | best cost: -0.9927204764046869, best pos: [4.53225666e+02 5.51425987e-01 7.88878171e-01 6.64281413e-01
+ 3.58027530e-01 4.50895011e+00 2.69033996e+00 7.71291928e-02
+ 5.39399928e-01 8.55448764e+00 5.82879769e-01]
+2023-12-12 23:14:32,152 - pyswarms.single.global_best - INFO - Optimize for 32 iters with {'c1': 1.5, 'c2': 1.5, 'w': 0.5}
+2023-12-12 23:15:08,580 - pyswarms.single.global_best - INFO - Optimize for 32 iters with {'c1': 1.5, 'c2': 1.5, 'w': 0.5}
+2023-12-12 23:15:24,865 - pyswarms.single.global_best - INFO - Optimization finished | best cost: -0.6590760194942531, best pos: [74.58578568  0.43813551  0.75250673  0.83982425  0.08489069  8.36486134
+  3.1772071   0.08383964  0.72506579  8.08786245  0.6052952 ]
+2023-12-12 23:38:04,742 - pyswarms.single.global_best - INFO - Optimize for 32 iters with {'c1': 1.5, 'c2': 1.5, 'w': 0.5}
+2023-12-12 23:38:13,971 - pyswarms.single.global_best - INFO - Optimization finished | best cost: -0.6641930050957818, best pos: [23.55850144  0.32164084  0.83922115  0.83671498  0.32176145  8.09289642
+  2.19251839  0.05773111  0.40536657  7.15224053  0.79118179]
+2023-12-12 23:38:19,005 - pyswarms.single.global_best - INFO - Optimize for 32 iters with {'c1': 1.5, 'c2': 1.5, 'w': 0.5}
+2023-12-12 23:38:36,800 - pyswarms.single.global_best - INFO - Optimize for 32 iters with {'c1': 1.5, 'c2': 1.5, 'w': 0.5}
+2023-12-12 23:39:18,091 - pyswarms.single.global_best - INFO - Optimization finished | best cost: -0.6463599131918827, best pos: [3.44333855e+02 1.58046234e-01 6.68241303e-01 7.29847164e-01
+ 2.78007482e-01 5.80965799e+00 6.42687415e+00 8.37970196e-02
+ 6.10070039e-01 7.81057137e+00 7.59772760e-01]
