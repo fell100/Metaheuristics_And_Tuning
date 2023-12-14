@@ -2,12 +2,14 @@ Vizualizando resultados:
 Ridge plot com quantis dentro
 OU dist plot 3d
 https://jtr13.github.io/cc19/ridgeline-plots.html
-
+https://github.com/tpvasconcelos/ridgeplot
 https://www.data-to-viz.com/
+https://python-charts.com/distribution/ridgeline-plot-matplotlib/
 --------------------------------------------------
 
-Trocar representação de soluções, var_type int float str do pymoo
 
+Trocar representação de soluções, var_type int float str do pymoo
+https://pymoo.org/customization/mixed.html
 -----------------------------------------------------------------
 
 Plot Current vs best PSO
@@ -17,6 +19,17 @@ current vs mean vs best
 Rever quais hiperparametros vou otimizar
 https://towardsdatascience.com/10-confusing-xgboost-hyperparameters-and-how-to-tune-them-like-a-pro-in-2023-e305057f546
 ----------------------------------------
+
+
+
+
+
+
+
+
+
+
+
 
 ###### DONE ######
 Repensar pre processamento
@@ -34,4 +47,3 @@ scp -r Metaheuristics_And_Tuning/ i4soft@200.137.197.200:/home/i4soft/lado_i/fel
 Servidor -> Meu PC
 scp -r i4soft@200.137.197.200:/home/i4soft/lado_i/felipe_miranda/Metaheuristics_And_Tuning/  /c/Users/Felps/Desktop/teste_from_server
 
-https://github.com/tpvasconcelos/ridgeplot
