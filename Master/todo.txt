@@ -17,7 +17,21 @@ current vs mean vs best
 ------------------------
 
 Rever quais hiperparametros vou otimizar
+
+xgboost
 https://towardsdatascience.com/10-confusing-xgboost-hyperparameters-and-how-to-tune-them-like-a-pro-in-2023-e305057f546
+https://www.kaggle.com/code/prashant111/a-guide-on-xgboost-hyperparameters-tuning
+Parameters for Tree Booster
+https://xgboost.readthedocs.io/en/stable/parameter.html#parameters-for-tree-booster
+
+lightGBM
+https://towardsdatascience.com/kagglers-guide-to-lightgbm-hyperparameter-tuning-with-optuna-in-2021-ed048d9838b5
+https://neptune.ai/blog/lightgbm-parameters-guide
+
+catboost
+https://github.com/optuna/optuna-examples/blob/main/catboost/catboost_pruning.py
+https://catboost.ai/en/docs/concepts/parameter-tuning
+https://forecastegy.com/posts/catboost-hyperparameter-tuning-guide-with-optuna/
 ----------------------------------------
 
 
