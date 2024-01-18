@@ -52,3 +52,43 @@
 2024-01-18 18:54:03,218 - pyswarms.single.global_best - INFO - Optimize for 32 iters with {'c1': 1.5, 'c2': 1.5, 'w': 0.5}
 2024-01-18 18:54:38,179 - pyswarms.single.global_best - INFO - Optimization finished | best cost: -0.5984107377197349, best pos: [0.2967154  0.2872091  0.79136811 0.88787541 0.4506525  4.46754962
  6.69534548 0.32193892 0.31314349]
+2024-01-18 19:43:25,445 - flaml.automl.task.generic_task - INFO - class 0 augmented from 6 to 24
+2024-01-18 19:43:25,445 - flaml.automl.task.generic_task - INFO - class 5 augmented from 16 to 32
+2024-01-18 19:43:25,884 - flaml.default.suggest - INFO - metafeature distance: 0.1675543283719825
+2024-01-18 19:43:25,893 - flaml.default.suggest - INFO - metafeature distance: 0.1675543283719825
+2024-01-18 19:43:25,901 - flaml.default.suggest - INFO - metafeature distance: 0.1675937827551997
+2024-01-18 19:43:26,011 - flaml.default.suggest - INFO - metafeature distance: 0.1675937827551997
+2024-01-18 19:43:26,018 - flaml.default.suggest - INFO - metafeature distance: 0.1675937827551997
+2024-01-18 19:43:26,025 - flaml.default.suggest - INFO - metafeature distance: 0.1675543283719825
+2024-01-18 19:43:48,794 - flaml.automl.task.generic_task - INFO - class 0 augmented from 6 to 24
+2024-01-18 19:43:48,795 - flaml.automl.task.generic_task - INFO - class 5 augmented from 16 to 32
+2024-01-18 19:43:48,799 - flaml.default.suggest - INFO - metafeature distance: 0.1675543283719825
+2024-01-18 19:43:48,800 - flaml.default.suggest - INFO - metafeature distance: 0.1675543283719825
+2024-01-18 19:43:48,802 - flaml.default.suggest - INFO - metafeature distance: 0.1675937827551997
+2024-01-18 19:43:48,803 - flaml.default.suggest - INFO - metafeature distance: 0.1675937827551997
+2024-01-18 19:43:48,804 - flaml.default.suggest - INFO - metafeature distance: 0.1675937827551997
+2024-01-18 19:43:48,806 - flaml.default.suggest - INFO - metafeature distance: 0.1675543283719825
+2024-01-18 19:59:17,065 - flaml.automl.task.generic_task - INFO - class 0 augmented from 6 to 24
+2024-01-18 19:59:17,066 - flaml.automl.task.generic_task - INFO - class 5 augmented from 16 to 32
+2024-01-18 19:59:17,069 - flaml.default.suggest - INFO - metafeature distance: 0.1675937827551997
+2024-01-18 19:59:17,071 - flaml.default.suggest - INFO - metafeature distance: 0.1675543283719825
+2024-01-18 20:03:49,905 - flaml.automl.task.generic_task - INFO - class 0 augmented from 6 to 24
+2024-01-18 20:03:49,906 - flaml.automl.task.generic_task - INFO - class 5 augmented from 16 to 32
+2024-01-18 20:04:53,209 - flaml.automl.task.generic_task - INFO - class 0 augmented from 6 to 24
+2024-01-18 20:04:53,209 - flaml.automl.task.generic_task - INFO - class 5 augmented from 16 to 32
+2024-01-18 20:04:56,415 - flaml.automl.task.generic_task - INFO - class 0 augmented from 6 to 24
+2024-01-18 20:04:56,415 - flaml.automl.task.generic_task - INFO - class 5 augmented from 16 to 32
+2024-01-18 20:13:52,519 - flaml.tune.searcher.blendsearch - INFO - No low-cost partial config given to the search algorithm. For cost-frugal search, consider providing low-cost values for cost-related hps via 'low_cost_partial_config'. More info can be found at https://microsoft.github.io/FLAML/docs/FAQ#about-low_cost_partial_config-in-tune
+2024-01-18 20:13:52,520 - flaml.tune.searcher.suggestion - WARNING - You passed a `space` parameter to OptunaSearch that contained unresolved search space definitions. OptunaSearch should however be instantiated with fully configured search spaces only. To use Ray Tune's automatic search space conversion, pass the space definition as part of the `config` argument to `tune.run()` instead.
+2024-01-18 20:14:47,457 - flaml.tune.searcher.blendsearch - INFO - No low-cost partial config given to the search algorithm. For cost-frugal search, consider providing low-cost values for cost-related hps via 'low_cost_partial_config'. More info can be found at https://microsoft.github.io/FLAML/docs/FAQ#about-low_cost_partial_config-in-tune
+2024-01-18 20:14:47,458 - flaml.tune.searcher.suggestion - WARNING - You passed a `space` parameter to OptunaSearch that contained unresolved search space definitions. OptunaSearch should however be instantiated with fully configured search spaces only. To use Ray Tune's automatic search space conversion, pass the space definition as part of the `config` argument to `tune.run()` instead.
+2024-01-18 20:14:53,211 - flaml.tune.searcher.blendsearch - INFO - No low-cost partial config given to the search algorithm. For cost-frugal search, consider providing low-cost values for cost-related hps via 'low_cost_partial_config'. More info can be found at https://microsoft.github.io/FLAML/docs/FAQ#about-low_cost_partial_config-in-tune
+2024-01-18 20:14:53,212 - flaml.tune.searcher.suggestion - WARNING - You passed a `space` parameter to OptunaSearch that contained unresolved search space definitions. OptunaSearch should however be instantiated with fully configured search spaces only. To use Ray Tune's automatic search space conversion, pass the space definition as part of the `config` argument to `tune.run()` instead.
+2024-01-18 20:18:11,481 - flaml.tune.searcher.blendsearch - INFO - No low-cost partial config given to the search algorithm. For cost-frugal search, consider providing low-cost values for cost-related hps via 'low_cost_partial_config'. More info can be found at https://microsoft.github.io/FLAML/docs/FAQ#about-low_cost_partial_config-in-tune
+2024-01-18 20:18:11,482 - flaml.tune.searcher.suggestion - WARNING - You passed a `space` parameter to OptunaSearch that contained unresolved search space definitions. OptunaSearch should however be instantiated with fully configured search spaces only. To use Ray Tune's automatic search space conversion, pass the space definition as part of the `config` argument to `tune.run()` instead.
+2024-01-18 20:19:07,674 - flaml.tune.searcher.blendsearch - INFO - No low-cost partial config given to the search algorithm. For cost-frugal search, consider providing low-cost values for cost-related hps via 'low_cost_partial_config'. More info can be found at https://microsoft.github.io/FLAML/docs/FAQ#about-low_cost_partial_config-in-tune
+2024-01-18 20:19:50,882 - flaml.tune.searcher.blendsearch - INFO - No low-cost partial config given to the search algorithm. For cost-frugal search, consider providing low-cost values for cost-related hps via 'low_cost_partial_config'. More info can be found at https://microsoft.github.io/FLAML/docs/FAQ#about-low_cost_partial_config-in-tune
+2024-01-18 20:19:56,892 - flaml.tune.searcher.blendsearch - INFO - No low-cost partial config given to the search algorithm. For cost-frugal search, consider providing low-cost values for cost-related hps via 'low_cost_partial_config'. More info can be found at https://microsoft.github.io/FLAML/docs/FAQ#about-low_cost_partial_config-in-tune
+2024-01-18 20:19:56,893 - flaml.tune.searcher.suggestion - WARNING - You passed a `space` parameter to OptunaSearch that contained unresolved search space definitions. OptunaSearch should however be instantiated with fully configured search spaces only. To use Ray Tune's automatic search space conversion, pass the space definition as part of the `config` argument to `tune.run()` instead.
+2024-01-18 20:20:02,855 - flaml.tune.searcher.blendsearch - INFO - No low-cost partial config given to the search algorithm. For cost-frugal search, consider providing low-cost values for cost-related hps via 'low_cost_partial_config'. More info can be found at https://microsoft.github.io/FLAML/docs/FAQ#about-low_cost_partial_config-in-tune
+2024-01-18 20:20:02,856 - flaml.tune.searcher.suggestion - WARNING - You passed a `space` parameter to OptunaSearch that contained unresolved search space definitions. OptunaSearch should however be instantiated with fully configured search spaces only. To use Ray Tune's automatic search space conversion, pass the space definition as part of the `config` argument to `tune.run()` instead.
